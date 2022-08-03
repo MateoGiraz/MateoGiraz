@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- Computer engineering student at ORT Uruguay
+- Computer Engineering student at ORT Uruguay
