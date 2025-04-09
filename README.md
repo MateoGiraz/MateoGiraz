@@ -4,9 +4,5 @@
 <br />
 🌎 &nbsp;Working at [Silver River](https://www.silver-river.us/) <br />
 <br />
-👯 &nbsp;Looking to collaborate on [gerson-api](https://github.com/MateoGiraz/gerson-api) <br />
-<br />
-⚡ &nbsp;Interested in Cloud and Microservices <br />
-<br />
 📫 &nbsp;Reach me! mateogiraz27@gmail.com <br />
 <br />
